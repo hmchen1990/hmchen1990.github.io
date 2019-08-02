@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Huaming Chen"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Huaming Chen"
 description              : &description "personal description"
 url                      : https://huaming-chen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huaming"
   avatar           : "profile.png"
-  bio              : "Father of Aris."
+  bio              : "Father of Aris and Husband of Only."
   location         : "Wollongong, NSW, Australia"
   employer         : 
   pubmed           : 
