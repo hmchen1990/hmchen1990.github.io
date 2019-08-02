@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Father of Aris."
   location         : "Wollongong, NSW, Australia"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "hc007@uowmail.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/huaming-chen"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "favorming"
   vine             :
   weibo            :
   xing             :
