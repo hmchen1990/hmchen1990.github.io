@@ -9,7 +9,7 @@ location: "Wollongong, Australia"
 ---
 
 ISIT950 and ISIT901 were taken in Autumn, 2018, and ISIT204 and ISIT224 were taken in Spring, 2018.
- 
+
 Subjects List
 ======
 ISIT204, PRINCIPLES OF eBUSINESS
