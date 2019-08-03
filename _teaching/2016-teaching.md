@@ -1,19 +1,15 @@
 ---
-title: "Tutor in 2019"
+title: "Tutor in 2016"
 collection: teaching
-type: "2019 Teaching"
-permalink: /teaching/2019-teaching
+type: "2016 Teaching"
+permalink: /teaching/2016-teaching
 venue: "University of Wollongong"
-date: 2019-01-01
+date: 2016-01-01
 location: "Wollongong, Australia"
 ---
 
-ISIT950 was taken in Autumn, 2019 and ISIT204 was taken in Spring, 2019.
+ISIT904 was taken in Spring, 2016.
 
-Subject 1
+Subjects List
 ======
-ISIT950, SYSTEMS DEVELOPMENT METHODOLOGIES
-
-Subject 2
-======
-ISIT204, PRINCIPLES of eBUSINESS
+ISIT904, SYSTEM INTEGRATION

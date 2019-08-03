@@ -1,19 +1,23 @@
 ---
-title: "Tutor in 2019"
+title: "Tutor in 2017"
 collection: teaching
-type: "2019 Teaching"
-permalink: /teaching/2019-teaching
+type: "2017 Teaching"
+permalink: /teaching/2017-teaching
 venue: "University of Wollongong"
-date: 2019-01-01
+date: 2017-01-01
 location: "Wollongong, Australia"
 ---
 
-ISIT950 was taken in Autumn, 2019 and ISIT204 was taken in Spring, 2019.
+INFO911, ISIT938, ISIT901 were taken in Autumn, 2017, and ISIT204 and ISIT224 were taken in Spring, 2017.
 
-Subject 1
+Subjects List
 ======
-ISIT950, SYSTEMS DEVELOPMENT METHODOLOGIES
+ISIT204, PRINCIPLES OF EBUSINESS
 
-Subject 2
-======
-ISIT204, PRINCIPLES of eBUSINESS
+ISIT224, MANAGEMENT INFORMATION SYSTEMS
+
+INFO911, DATA MINING AND KNOWLEDGE DISCOVERY
+
+ISIT938, EBUSINESS TECHNOLOGIES
+
+ISIT901, INFORMATION SYSTEMS and STRATEGY
