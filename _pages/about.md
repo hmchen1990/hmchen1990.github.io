@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my webpage!"
+title: "Welcome to Huaming's personal webpage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Huaming Chen, from University of Wollongong, Australia.
+My name is Huaming Chen, currently a Ph.D candidate in University of Wollongong, Australia.
 
 About
 ======
