@@ -11,25 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic and Information Top Class, Lanzhou University, China, 2012
-* M.S. in Computer Systems Architecture, Lanzhou University, China, 2015
-* Ph.D in Inforamtion Science Philosophy, University of Wollongong, Australia, 2019 (expected)
+* B.S. in ELECTRONIC INFORMATION SCIENCE AND TECHNOLOGY, Lanzhou University, China, 2012
+* M.S. in COMPUTER SYSTEMS ARCHITECTURE, Lanzhou University, China, 2015
+* Ph.D in DOCTOR OF PHILOSOPHY (INFORMATION), University of Wollongong, Australia, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2016 -- Now: Tutor
+  * University of Wollongong, Australia
+  * Duties included: Tutorial class and labs teaching
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PROGRAMMING LANGUAGE:
+  * Python, R, C, PHP, HTML, UNIX SHELL SCRIPTING
+* SOFTWARE PACKAGE:
+  * Tensorflow, Keras, Scikit-learn, pandas
+  * LaTex
+  * Microsoft Office
+* OPERATING SYSTEM:
+  * Ubuntu (preferred)
+  * Windows
+  * MacOS
 
 Publications
 ======
