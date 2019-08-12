@@ -1,0 +1,38 @@
+# Education Template
+- layout: top
+  name: IEEE NSW and Centre for IT-enabled Transformation (CITT) Joint Seminar.
+  dates: April 26, 2018
+  description: | # this will include new lines to allow paragraphs
+    Topic: The Study between Host and Pathogen Interactions
+
+    Abstract: The rapid development of high throughput technologies has presented us an opportunity in mining and uncovering the relationships of the biological data. Specifically, the accumulated omics data expose a fundamental scenario for researchers with interest. In this study, we will discuss the topic on drilling computational methodologies to the proteomics study, specifically concerning the interactions between host and pathogens.
+
+- layout: top
+  name: Workshop on bioinformatics at UOW.
+  dates: April 26, 2018
+  description: | # this will include new lines to allow paragraphs
+    Topic: Current bioinformatics work at UOW
+
+- layout: top
+  name: 16th International Conference on Bioinformatics (InCoB 2017)
+  dates: Sep, 2017
+  description: |
+    Selected as oral presentations
+
+    Topic: A Comparison Study for Supervised Machine Learning Models in Cancer Classification
+
+- layout: top
+  name: IEEE International Congress on Big Data 2017, Hawaii, USA
+  dates: June, 2017
+  description: |
+    Selected as oral presentations
+
+    Topic: Leveraging Stacked Denoising Autoencoder for prediction of PHPPI
+
+- layout: top
+  name: IEEE International Congress on Big Data 2017, Hawaii, USA
+  dates: June, 2017
+  description: |
+    Selected as oral presentations
+
+    Topic: Towards Elucidating the Structural Principles of Host-Pathogen Protein-Protein Interaction Networks: A bioinformatics survey

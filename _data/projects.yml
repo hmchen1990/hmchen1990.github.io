@@ -1,0 +1,14 @@
+# Project template
+- layout: left
+  name: UGPN (The University Global Partnership Network)
+  quote: >
+    Chief Investigator: Prof. Yaochu Jin from University of Surrey, A/Prof. Jun Shen from University of Wollongong
+  description: | # this will include new lines to allow paragraphs
+    Tackling e-Learning and Bioinformatics Applications with Surrogate-Assisted Evolutionary Computation
+
+- layout: left
+  name: Faculty Strategic Investments Grant
+  quote: >
+    Chief Investigator: A/Prof. Lei Wang and A/Prof. Jun Shen from University of Wollongong
+  description: | # this will include new lines to allow paragraphs
+    Cost-effective PHPPI prediction

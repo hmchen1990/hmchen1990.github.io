@@ -1,0 +1,52 @@
+# Project template
+- layout: top
+  name: Journal
+  description: |
+    Chen, H., Guo, W., Shen, J., Wang, L. & Song, J., 2018, "Structural Principles Analysis of Host-Pathogen Protein-Protein Interactions: A Structural Bioinformatics Survey", IEEE Access, 6:11760-11771.
+
+    Li, R., Rose, G., Chen, H., & Shen, J., 2016, “Effective Long term Travel Time prediction with Fuzzy Rules for Tollway”. Neural Computing and Applications, pp. 1-13
+
+    Zhou, Q., Chen, H., Zhao, H., Zhang, G., Yong, J. & Shen, J., 2016. “A local field correlated and Monte Carlo based shallow neural network model for non-linear time series prediction”. Scalable Information Systems, 3(8): e5
+
+    Zhou, Q., Chen, C., Zhang, G., Chen, H., Chen, D., Yan, Y., Shen, J. & Zhou, R., 2018, “Real-time Management of groundwater resource based on wireless sensor networks”, Journal of Sensor and Actuator Networks, 4(1): 1-11
+
+    Wang, L., Shen, J., Zhou, Q., Shang, Z., Chen, H. & Zhao, H., 2016, “An evaluation of the dynamics of diluted neural network”. International  Journal of Computational Intelligence Systems, 9 (6), pp. 1191-1199.
+
+    Yong, B., Shen, J., Sun, H., Chen, H. & Zhou, Q., 2017, “Parallel GPU-Based Collision Detection of Irregular Vessel Wall for Massive Particles”. Cluster Computing: The Journal of Networks, Software Tools and Applications, online first pp. 1-13.
+
+    Yong, B., Zhang, G., Chen, H. and Zhou, Q., 2016. "Intelligent monitor system based on cloud and convolutional neural networks". The Journal of Supercomputing, pp.1-17.
+
+    Chen, H., 2015, “RCSoS: An IEC 61508 Compatible Server model for Reliable Communication”. Journal of Signal Processing Systems, 80(3), pp.323-337.
+
+- layout: top
+  name: Book Chapter
+  description: |
+    Chen, H., Song, J., Shen, J. & Wang, L., 2016. “Big Data in Genomics”. Big Data Management and Processing. Taylor Francis Group: CRC Press, pp. 363-384.
+
+- layout: top
+  name: Conference
+  description: | # this will include new lines to allow paragraphs
+    Chen, H., Shen, J., Wang, L., Song, J. & Chi, C., 2018, “Towards Biological Sequence Data Service with Insights”, Proceedings of IEEE International Conference on Big Data, 2018, pp. 2847–2854
+
+    Li, F., Wu, J., Dong, F., Lin, J., Sun, G., Chen, H. & Shen, J., 2018, “Ensemble Machine Learning Systems for the Estimation of Steel Quality Control”, Proceedings of IEEE International Conference on Big Data, 2018, pp.2245–2252
+
+    Chen, H., Shen, J., Wang, L. & Song, J., 2017. “Leveraging Stacked Denoising Autoencoder for prediction of PHPPI”, IEEE International Congress on Big Data, pp. 368-375
+
+    Chen, H., Song, J., Sun, G., Shen, J., & Wang, L., 2017. "Towards Elucidating the Structural Principles of Host-Pathogen Protein- Protein Interaction Networks: A bioinformatics survey", IEEE International Congress on Big Data, pp. 177-184
+
+    Sun, G., Cui, T., Xu, D., Chen, H., Chen, S. & Shen, J., 2017, “Assisting Open Education Resource Providers and Instructors to Deal With Cold Start Problem in Adaptive Micro Learning: a Service Oriented Solution”, 14th IEEE International Conference on Services Computing, pp. 196-203
+
+    Chen, H., Shen, J., Wang, L. & Song, J., 2016. “Collaborative Data Analytics towards Prediction on Pathogen-Host Protein-Protein Interactions”, CSCWD, pp. 269-274
+
+    Chen, H., Shen, J., Wang, L. & Song, J., 2016. “Towards Data Analytics of Pathogen-Host Protein-Protein Interaction: A survey”. IEEE International Congress on Big Data, pp. 377-388
+
+    Chen, H. etc., 2015, “Supervised machine learning model for high dimensional gene data in colon cancer detection”. IEEE International Congress on Big Data, IEEE, pp. 134-141.
+
+    Chen, H. etc., 2013, “A Server Model for Reliable Communication on Cell/BE”. Parallel Processing (ICPP), 42nd International Conference on. IEEE, pp. 1020-1027.
+
+    Chen, H. etc.,  2013, The communication model between humanoid robot and mobile phone. Awareness Science and Technology and Ubi-Media Computing (iCAST-UMEDIA), International Joint Conference on. IEEE, pp. 697-701.
+
+- layout: top
+  name: Patent
+  description: |
+    Granted Patent (China) : “A method and device of Line Tracking and Navigation for Robots”. Application Number: 201310623873.3, issued in 2017.05

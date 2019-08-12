@@ -1,0 +1,20 @@
+# Education Template
+- layout: top
+  name: University of Wollongong, Australia
+  qualification: Ph.D 
+  description: | # this will include new lines to allow paragraphs
+    School of Computing and Information Technology
+  dates: Aug. 2015 - present
+
+- layout: top
+  name: Lanzhou University, China
+  dates: Aug. 2012 - Jun. 2015
+  qualification: Master
+  description: | # this will include new lines to allow paragraphs
+    School of Information Science and Engineering
+- layout: top
+  name: Lanzhou University, China
+  dates: Aug. 2008 - Jun. 2012
+  qualification: Bachelor
+  description: | # this will include new lines to allow paragraphs
+    School of Information Science and Engineering
