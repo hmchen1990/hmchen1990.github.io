@@ -17,7 +17,9 @@ linkedin_username: huaming-chen
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/Huaming_Chen.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Huaming Chen, currently a Ph.D candidate in University of Wollongong, Australia.
+  My name is Huaming Chen, currently a Ph.D candidate in University of Wollongong, Australia. 
+
+  The website is still under construction.
 
 # Education Section
 education_title: Education #(Use this to override about education section title)
