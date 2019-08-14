@@ -1,0 +1,28 @@
+# Experience template
+- layout: left
+  company: Travel Awards
+  description: | # this will include new lines to allow paragraphs
+    Student and Early Career Travel Fellowship for 16th InCoB Sep 2017
+
+    Student Travel Award for IEEE 2017 ICWS/CLOUD/BigDataCongress/SCC Jun 2017
+
+- layout: left
+  company: Student Awards
+  description: |
+    2013-2014, Graduate National Scholarship, Ministry of Education, P.R. China 
+    
+    2012-2013, Graduate National Scholarship, Ministry of Education, P.R. China 
+    
+    2012-2013, Merit Graduate Student, Lanzhou University
+    
+    2012-2013, 2013-2014, 2014-2015 First Class Academic Scholarship, Lanzhou University 2012, The Encourage Award for Northwest Area of 2012 China Android Application Development Contest
+    
+    2008-2009, 2009-2010, 2010-2011 Outstanding University Students Scholarship, Lanzhou University
+    
+    2010-2011 Outstanding Stylistic Scholarship, Lanzhou University
+    
+    2009-2010 Outstanding Student Union Cadre, Lanzhou University
+    
+    2008-2009 Outstanding League Member, Lanzhou University
+
+    2008-2009 Outstanding Student Cadre, Lanzhou University

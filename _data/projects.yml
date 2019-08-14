@@ -12,3 +12,18 @@
     Chief Investigator: A/Prof. Lei Wang and A/Prof. Jun Shen from University of Wollongong
   description: | # this will include new lines to allow paragraphs
     Cost-effective PHPPI prediction
+
+- layout: left
+  name: Web master of conference website
+  description: |
+    [Pre-ICIS SIGBPS 2018 Workshop on Blockchain and Smart Contract 2018](https://huaming-chen.com/SIGBPS2018/)
+- layout: left
+  name: Earlier Projects
+  quote: >
+    Chief Investigator: Prof. Qingguo Zhou, Prof. Nicholas Mc. Guire and A/Prof. Rui Zhou from Lanzhou University
+  description: |
+    'The LOW-LEVEL Development Guide on Android' (One book published)
+
+    'The Design of Robotic Navigation based on Android Smartphone' (One granted patent)
+
+    'Training and Development of Real Time Linux Kernel'

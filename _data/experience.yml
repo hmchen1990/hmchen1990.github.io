@@ -1,10 +1,35 @@
-# Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+  company: Teaching Services
+  job_title: University of Wollongong, Australia
+  description: |
+    Subject ‘Principles of eBusiness’ - Spring, 2019
+
+    Subject ‘Systems Development Methodologies’ - Autumn, 2019 
+    
+    Subject ‘Principles of eBusiness’ - Spring, 2018
+    
+    Subject ‘Management Information Systems’ - Spring, 2018 
+    
+    Subject ‘Information Systems Strategic Planning’ - Autumn, 2018 
+    
+    Subject ‘Systems Development Methodologies’ - Autumn, 2018 
+    
+    Subject ‘Principles of eBusiness’ - Spring, 2017
+    
+    Subject ‘Management Information Systems’ - Spring, 2017 
+    
+    Subject ‘Data Mining and Knowledge Discovery’ - Autumn, 2017
+    
+    Subject ‘eBusiness Technologies’ - Autumn, 2017
+
+    Subject ‘Information Systems Strategic Planning’ - Autumn, 2017
+    
+    Subject ‘System Integration’ - Spring, 2016
+
+- layout: left
+  company: Teaching Services
+  job_title: Lanzhou University, China
+  description: |
+    Teaching Assistant for subject ’Digital Circuits’ - 2013
+    
+    Vice Supervisor for the Top Class of Electronic Information and Technology Class - 2010--2011
