@@ -1,5 +1,12 @@
 # Project template
 - layout: left
+  name: Continuing Blog Updating (Self-organized)
+  quote: >
+    Hoster: Self
+  description: |
+    [Blog updating covering differnt topics related to machine learning & data science](https://huaming-chen.com/blogs)
+    
+- layout: left
   name: UGPN (The University Global Partnership Network)
   quote: >
     Chief Investigator: Prof. Yaochu Jin from University of Surrey, A/Prof. Jun Shen from University of Wollongong
@@ -17,6 +24,7 @@
   name: Web master of conference website
   description: |
     [Pre-ICIS SIGBPS 2018 Workshop on Blockchain and Smart Contract 2018](https://huaming-chen.com/SIGBPS2018/)
+
 - layout: left
   name: Earlier Projects
   quote: >

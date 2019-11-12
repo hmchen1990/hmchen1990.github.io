@@ -26,7 +26,9 @@
 - layout: top
   name: Conference
   description: | # this will include new lines to allow paragraphs
-    Chen, H., Shen, J., Wang, L., Song, J. & Chi, C., 2018, “Towards Biological Sequence Data Service with Insights”, Proceedings of IEEE International Conference on Big Data, 2018, pp. 2847–2854
+    Chen, H., Wang, L., Chi, H., Shen, J., 2019, “Leveraging SMOTE in A Two-Layer Model for Prediction of Protein-Protein Interactions”, The Seventh Intrnational Conference on Advanced Cloud and Big Data, 2019, pp. 133-138 
+
+    Chen, H., Shen, J., Wang, L., Song, J. & Chi, H., 2018, “Towards Biological Sequence Data Service with Insights”, Proceedings of IEEE International Conference on Big Data, 2018, pp. 2847–2854
 
     Li, F., Wu, J., Dong, F., Lin, J., Sun, G., Chen, H. & Shen, J., 2018, “Ensemble Machine Learning Systems for the Estimation of Steel Quality Control”, Proceedings of IEEE International Conference on Big Data, 2018, pp.2245–2252
 
