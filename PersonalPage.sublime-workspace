@@ -98,10 +98,30 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io",
+		"/Users/huaming/Documents/GitHub/blogs",
+		"/Users/huaming/Documents/GitHub/blogs/.jekyll-cache",
+		"/Users/huaming/Documents/GitHub/blogs/.jekyll-cache/Jekyll",
+		"/Users/huaming/Documents/GitHub/blogs/.jekyll-cache/Jekyll/Cache",
+		"/Users/huaming/Documents/GitHub/blogs/_includes",
+		"/Users/huaming/Documents/GitHub/blogs/_layouts",
+		"/Users/huaming/Documents/GitHub/blogs/_posts",
+		"/Users/huaming/Documents/GitHub/blogs/_site",
+		"/Users/huaming/Documents/GitHub/blogs/_site/about",
+		"/Users/huaming/Documents/GitHub/blogs/_site/images",
+		"/Users/huaming/Documents/GitHub/blogs/images"
 	],
 	"file_history":
 	[
+		"/Users/huaming/Documents/GitHub/blogs/404.md",
+		"/Users/huaming/Documents/GitHub/blogs/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/404.md",
+		"/Users/huaming/Documents/GitHub/blogs/_posts/2018-09-18-Survey-for-Anomaly-Detection.md",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Documents/GitHub/blogs/_posts/2014-3-3-Hello-World.md",
+		"/Users/huaming/Documents/GitHub/blogs/about.md",
+		"/Users/huaming/Documents/GitHub/blogs/Gemfile.rb",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/PersonalPage",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_layouts/default.html",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color-brief.tex",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color.tex",
@@ -166,7 +186,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 43.0
 	},
 	"layout":
 	{

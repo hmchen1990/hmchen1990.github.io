@@ -26,6 +26,8 @@
 - layout: top
   name: Conference
   description: | # this will include new lines to allow paragraphs
+    Chen, H., Wang, L., Jin, Y., Chi, C., Li, F., Chu, H., Shen, J., 2019, [“Hyperparameter Estimation in SVM with GPU Acceleration for Prediction of Protein-Protein Interactions”](https://huaming-chen.com/GPU_SVM), Proceedings of IEEE International Conference on Big Data, 2019, pp. 1-8
+
     Chen, H., Wang, L., Chi, H., Shen, J., 2019, “Leveraging SMOTE in A Two-Layer Model for Prediction of Protein-Protein Interactions”, The Seventh Intrnational Conference on Advanced Cloud and Big Data, 2019, pp. 133-138 
 
     Chen, H., Shen, J., Wang, L., Song, J. & Chi, H., 2018, “Towards Biological Sequence Data Service with Insights”, Proceedings of IEEE International Conference on Big Data, 2018, pp. 2847–2854
