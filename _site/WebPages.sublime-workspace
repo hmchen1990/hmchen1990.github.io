@@ -98,10 +98,11 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io"
 	],
 	"file_history":
 	[
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_layouts/default.html",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color-brief.tex",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color.tex",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/AIHC/Revision_Uploaded/AIHC_201911_Revision.tex",
@@ -115,7 +116,6 @@
 		"/Users/huaming/Downloads/llncs2e/RECOMB_Appendix.tex",
 		"/Users/huaming/Downloads/gkcx.py",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/projects.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
@@ -241,7 +241,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 107.0,
+	"side_bar_width": 248.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
