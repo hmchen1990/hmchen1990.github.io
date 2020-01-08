@@ -7,6 +7,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_data/publication.yml",
+			"settings":
+			{
+				"buffer_size": 5172,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -98,6 +107,9 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes"
 	],
 	"file_history":
 	[
@@ -155,8 +167,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_data/publication.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2308,
+								2308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
