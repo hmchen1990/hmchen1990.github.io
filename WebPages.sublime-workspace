@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/PACBB20/PACBB20.tex",
-			"settings":
-			{
-				"buffer_size": 22911,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -81,16 +72,16 @@
 				"Git: Push"
 			],
 			[
-				"git commit",
-				"Git: Commit"
-			],
-			[
 				"git comm",
 				"Git: Commit"
 			],
 			[
 				"git add",
 				"Git: Add All"
+			],
+			[
+				"git commit",
+				"Git: Commit"
 			],
 			[
 				"install",
@@ -133,12 +124,14 @@
 	[
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes"
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/scripts"
 	],
 	"file_history":
 	[
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/PACBB20/PACBB20.tex",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_layouts/default.html",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color-brief.tex",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color.tex",
@@ -191,37 +184,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/PACBB20/PACBB20.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22911,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -310,7 +274,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 119.0,
+	"side_bar_width": 318.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
