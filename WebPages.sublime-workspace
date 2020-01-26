@@ -8,12 +8,12 @@
 	"buffers":
 	[
 		{
-			"file": "_data/publication.yml",
+			"file": "/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/PACBB20/PACBB20.tex",
 			"settings":
 			{
-				"buffer_size": 5172,
+				"buffer_size": 22911,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -77,6 +77,30 @@
 		"selected_items":
 		[
 			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Git ",
+				"Set Syntax: Git Commit"
+			],
+			[
 				"Set Syntax: LaTeX",
 				"Set Syntax: LaTeX"
 			],
@@ -113,6 +137,7 @@
 	],
 	"file_history":
 	[
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_layouts/default.html",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color-brief.tex",
@@ -128,7 +153,6 @@
 		"/Users/huaming/Downloads/llncs2e/RECOMB_Appendix.tex",
 		"/Users/huaming/Downloads/gkcx.py",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/projects.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
@@ -136,7 +160,7 @@
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -158,7 +182,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -172,26 +196,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_data/publication.yml",
+					"file": "/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/PACBB20/PACBB20.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5172,
+						"buffer_size": 22911,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2308,
-								2308
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -205,7 +227,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -238,6 +260,10 @@
 	{
 		"height": 0.0
 	},
+	"output.git":
+	{
+		"height": 144.0
+	},
 	"output.latextools":
 	{
 		"height": 132.0
@@ -246,7 +272,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -260,21 +286,21 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 60.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 592.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -284,7 +310,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 248.0,
+	"side_bar_width": 119.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

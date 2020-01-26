@@ -20,7 +20,7 @@ about_content: | # this will include new lines to allow paragraphs
   Greetings!
   ---
   My name is Huaming Chen, currently a Ph.D candidate in University of Wollongong, Australia. I am advised by [A/Prof. Jun Shen](https://scholars.uow.edu.au/display/jun_shen), A/Prof. Lei Wang from UoW, A/Prof. Jiangning Song from Monash and Dr. Chi-Hung Chi from CSIRO, Australia.
-  I received my Master and Bachelor's degrees from Pro. Qingguo Zhou's DSLab and Honors Class at Lanzhou University, in 2015 and 2012 respectively.
+  I received my Master and Bachelor degrees from DSLab and Honors Class at Lanzhou University, in 2015 and 2012 respectively.
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-83702637-1
@@ -29,8 +29,9 @@ google_analytics: UA-83702637-1
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   ---
-  I am interested in the intersection research of machine learning and biology systems. I am honored to be under the supervision of A/Prof. Jun Shen, A/Prof. Lei Wang, A/Prof. Jiangning Song and Dr. Chi-Hung Chi for my Ph.D study, who have given me valuable opportunities in research and help me learning in an expotential growth curve from both machine learning and biology areas.
-  Prior to my Ph.D study, it was a great journey to work with Prof. Nicholas Mc Guire in the topic of Linux kernel development, focusing on real-time linux kernel in my master session. Also, I have been fortunate to work with Prof. Hong Zhao in the topic of neural network in the final year of master session. All the experience under the supervision of my master supervisor Prof. Qingguo Zhou has benefitted me a lot.
+  I am interested in the intersection research of machine learning and biology systems. I am honored to be under the supervision of A/Prof. Jun Shen, A/Prof. Lei Wang, A/Prof. Jiangning Song and Dr. Chi-Hung Chi for my Ph.D study, who have given me valuable opportunities in research and help me learning in an expotential growth curve from both machine learning and biology areas. I have been honored to visit NICE group led by Prof. Yaochu Jin in University of Surrey during my Ph.D session.
+#  Prior to my Ph.D study, it was a great journey to work with Prof. Nicholas Mc Guire in the topic of Linux kernel development, focusing on real-time linux kernel in my master session. Also, I have been fortunate to work with Prof. Hong Zhao in the topic of neural network in the final year of master session. All the experience under the supervision of my master supervisor Prof. Qingguo Zhou has benefitted me a lot.
+  Prior to my Ph.D study, it was my great fortune to work with Prof. Nicholas Mc Guire in the topic of Linux kernel development, focusing on real-time linux kernel, and to work with Prof. Hong Zhao in the topic of neural network in the final year of master session.
   A wide area covering from the lower-level computer architecture, such as real-time Linux kernel development, driver development and computer operating systems, to the higher-level algorithms and statistical models including artificial intelligence, machine learning and bioinformatics, has been through my learning and practicing career. Relevant projects and publications can be found attached.
 
   ---
