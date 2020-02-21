@@ -2,53 +2,63 @@
 - layout: top
   name: Referred Publications
   description: |
-    Chen, H., Shen, J., Wang, L. & Song, J., 2020, ["A Framework towards Data Analytics on Host-Pathogen Protein-Protein Interactions"](), Journal of Ambient Intelligence and Humanized Computing, 1-12.
+    Chen, H., Shen, J., Wang, L. and Song, J., 2020, ["A Framework towards Data Analytics on Host-Pathogen Protein-Protein Interactions"](https://link.springer.com/article/10.1007/s12652-020-01715-7), Journal of Ambient Intelligence and Humanized Computing, 1-13.
 
-    Chen, H., Wang, L., Chi, H., Shen, J., 2019, ["Leveraging SMOTE in A Two-Layer Model for Prediction of Protein-Protein Interactions"](), The Seventh Intrnational Conference on Advanced Cloud and Big Data, 2019, pp. 133-138 
+    Chen, H., Wang, L., Chi, H. and Shen, J., 2019, ["Leveraging SMOTE in A Two-Layer Model for Prediction of Protein-Protein Interactions"](https://ieeexplore.ieee.org/abstract/document/8916556/), The Seventh Intrnational Conference on Advanced Cloud and Big Data, 2019, pp. 133-138 
 
-    Yong, B., Shen, J., Liu, X., Li, F., Chen, H., Zhou, Q., 2019, ["An intelligent blockchain-based system for safe vaccine supply and supervision"](), International Journal of Information Management, 102024.
+    Yong, B., Shen, J., Liu, X., Li, F., Chen, H. and Zhou, Q., 2019, ["An intelligent blockchain-based system for safe vaccine supply and supervision"](https://www.sciencedirect.com/science/article/pii/S0268401219304505), International Journal of Information Management, 102024.
+ 
+    Brown, P., RELISH Consortium and Zhou, Y., 2019, ["Large expert-curated database for benchmarking document similarity detection in biomedical literature search"](). Database, 2019.
 
-    Chen, H., Wang, L., Jin, Y., Chi, C., Li, F., Chu, H., Shen, J., 2019, ["Hyperparameter Estimation in SVM with GPU Acceleration for Prediction of Protein-Protein Interactions"](https://huaming-chen.com/GPU_SVM), Proceedings of IEEE International Conference on Big Data, 2019, pp. 1-8
+    Chen, H., Wang, L., Jin, Y., Chi, C., Li, F., Chu, H. and Shen, J., 2019, ["Hyperparameter Estimation in SVM with GPU Acceleration for Prediction of Protein-Protein Interactions"](https://huaming-chen.com/GPU_SVM), Proceedings of IEEE International Conference on Big Data, 2019, pp. 1-8
 
-    Chen, H., Guo, W., Shen, J., Wang, L. & Song, J., 2018, ["Structural Principles Analysis of Host-Pathogen Protein-Protein Interactions: A Structural Bioinformatics Survey"](), IEEE Access, 6:11760-11771.
+    Li, F., Wu, J., Dong, F., Lin, J., Sun, G., Chen, H. and Shen, J., 2018, ["Ensemble Machine Learning Systems for the Estimation of Steel Quality Control"](https://ieeexplore.ieee.org/abstract/document/8622583/), Proceedings of IEEE International Conference on Big Data, 2018, pp.2245–2252
 
-    Chen, H., Shen, J., Wang, L., Song, J. & Chi, H., 2018, ["Towards Biological Sequence Data Service with Insights"](), Proceedings of IEEE International Conference on Big Data, 2018, pp. 2847–2854
+    Chen, H., Shen, J., Wang, L., Song, J. and Chi, H., 2018, ["Towards Biological Sequence Data Service with Insights"](https://ieeexplore.ieee.org/abstract/document/8622194), Proceedings of IEEE International Conference on Big Data, 2018, pp. 2847–2854
 
-    Li, F., Wu, J., Dong, F., Lin, J., Sun, G., Chen, H. & Shen, J., 2018, ["Ensemble Machine Learning Systems for the Estimation of Steel Quality Control"](), Proceedings of IEEE International Conference on Big Data, 2018, pp.2245–2252
+    Li, R., Rose, G., Chen, H., and Shen, J., 2018. ["Effective long-term travel time prediction with fuzzy rules for tollway"](https://link.springer.com/article/10.1007/s00521-017-2899-6). Neural Computing and Applications, 30(9), 2921-2933. 
 
-    Zhou, Q., Chen, C., Zhang, G., Chen, H., Chen, D., Yan, Y., Shen, J. & Zhou, R., 2018, ["Real-time Management of groundwater resource based on wireless sensor networks"](), Journal of Sensor and Actuator Networks, 4(1): 1-11
+    Zhou, Q., Chen, C., Zhang, G., Chen, H., Chen, D., Yan, Y., Shen, J. and Zhou, R., 2018, ["Real-time Management of groundwater resource based on wireless sensor networks"](), Journal of Sensor and Actuator Networks, 4(1): 1-11
 
-    Chen, H., Shen, J., Wang, L. & Song, J., 2017. ["Leveraging Stacked Denoising Autoencoder for prediction of PHPPI"](), IEEE International Congress on Big Data, pp. 368-375
+    Yong, B., Shen, J., Shen, Z., Chen, H., Wang, X. and Zhou, Q., 2018. ["GVM based intuitive simulation web application for collision detection"](https://www.sciencedirect.com/science/article/abs/pii/S0925231217317824). Neurocomputing, 279, pp.63-73.
 
-    Chen, H., Song, J., Sun, G., Shen, J., & Wang, L., 2017. ["Towards Elucidating the Structural Principles of Host-Pathogen Protein- Protein Interaction Networks: A bioinformatics survey"](), IEEE International Congress on Big Data, pp. 177-184
+    Chen, H., Guo, W., Shen, J., Wang, L. and Song, J., 2018, ["Structural Principles Analysis of Host-Pathogen Protein-Protein Interactions: A Structural Bioinformatics Survey"](https://ieeexplore.ieee.org/abstract/document/8295185/), IEEE Access, 6, pp.11760-11771.
 
-    Sun, G., Cui, T., Xu, D., Chen, H., Chen, S. & Shen, J., 2017, ["Assisting Open Education Resource Providers and Instructors to Deal With Cold Start Problem in Adaptive Micro Learning: a Service Oriented Solution"](), 14th IEEE International Conference on Services Computing, pp. 196-203
+    Chen, H., Song, J., Shen, J. and Wang, L., 2017. ["Big data in genomics"](https://www.taylorfrancis.com/books/e/9781315154008/chapters/10.1201/9781315154008-18). In Big Data Management and Processing (pp. 363-384). Chapman and Hall/CRC.
+    
+    Yong, B., Shen, J., Sun, H., Chen, H. and Zhou, Q., 2017. ["Parallel GPU-based collision detection of irregular vessel wall for massive particles"](https://link.springer.com/article/10.1007/s10586-017-0741-7). Cluster Computing, 20(3), pp.2591-2603.
+    
+    Yong, B., Zhang, G., Chen, H. and Zhou, Q., 2017. ["Intelligent monitor system based on cloud and convolutional neural networks"](https://link.springer.com/article/10.1007/s11227-016-1934-1). The Journal of Supercomputing, 73(7), pp.3260-3276.
 
-    Yong, B., Shen, J., Sun, H., Chen, H. & Zhou, Q., 2017, ["Parallel GPU-Based Collision Detection of Irregular Vessel Wall for Massive Particles"](). Cluster Computing: The Journal of Networks, Software Tools and Applications, online first pp. 1-13.
+    Chen, H., Shen, J., Wang, L. and Song, J., 2017. ["Leveraging Stacked Denoising Autoencoder for prediction of PHPPI"](https://ieeexplore.ieee.org/abstract/document/8029347/), IEEE International Congress on Big Data, pp. 368-375.
 
-    Granted Patent (China) : ["A method and device of Line Tracking and Navigation for Robots"](). Application Number: 201310623873.3, issued in 2017.05
+    Chen, H., Song, J., Sun, G., Shen, J. and Wang, L., 2017. ["Towards Elucidating the Structural Principles of Host-Pathogen Protein- Protein Interaction Networks: A bioinformatics survey"](https://ieeexplore.ieee.org/abstract/document/8029324), IEEE International Congress on Big Data, pp. 177-184.
 
-    Chen, H., Shen, J., Wang, L. & Song, J., 2016. ["Collaborative Data Analytics towards Prediction on Pathogen-Host Protein-Protein Interactions"](), CSCWD, pp. 269-274
+    Sun, G., Cui, T., Xu, D., Chen, H., Chen, S. and Shen, J., 2017, ["Assisting Open Education Resource Providers and Instructors to Deal With Cold Start Problem in Adaptive Micro Learning: a Service Oriented Solution"](https://ieeexplore.ieee.org/abstract/document/8034985/), 14th IEEE International Conference on Services Computing, pp. 196-203.
 
-    Chen, H., Shen, J., Wang, L. & Song, J., 2016. ["Towards Data Analytics of Pathogen-Host Protein-Protein Interaction: A survey"](). IEEE International Congress on Big Data, pp. 377-388
+    Granted Patent (China) : ["A method and device of Line Tracking and Navigation for Robots"](https://patents.google.com/patent/CN103822625A/en). Application Number: 201310623873.3, issued in 2017.05.
+    
+    Chen, H., Shen, J., Wang, L. and Song, J., 2017. ["Collaborative data analytics towards prediction on pathogen-host protein-protein interactions"](https://ieeexplore.ieee.org/abstract/document/8066706/). In 2017 IEEE 21st International Conference on Computer Supported Cooperative Work in Design (CSCWD) (pp. 269-274). IEEE.
+    
+    Yong, B., Xu, Z., Shen, J., Chen, H., Tian, Y. and Zhou, Q., 2017. ["Neural network model with Monte Carlo algorithm for electricity demand forecasting in Queensland"](https://dl.acm.org/doi/abs/10.1145/3014812.3014861). In Proceedings of the Australasian Computer Science Week Multiconference, pp. 1-7.
 
-    Chen, H., Song, J., Shen, J. & Wang, L., 2016. ["Big Data in Genomics"](). Big Data Management and Processing. Taylor Francis Group: CRC Press, pp. 363-384.
+    Chen, H., Zhao, H., Wang, L., Song, J. and Shen, J., 2017. ["A Comparison Study for Supervised Machine Learning Models in Cancer Classification"](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1779&context=eispapers1). 16th International Conference on Bioinformatics (InCoB 2017), pp. 1-2.
 
-    Li, R., Rose, G., Chen, H., & Shen, J., 2016, ["Effective Long term Travel Time prediction with Fuzzy Rules for Tollway"](). Neural Computing and Applications, pp. 1-13
+    Wang, L., Shen, J., Zhou, Q., Shang, Z., Chen, H. and Zhao, H., 2016. ["An evaluation of the dynamics of diluted neural network"](https://www.tandfonline.com/doi/abs/10.1080/18756891.2016.1256578). International Journal of Computational Intelligence Systems, 9(6), pp.1191-1199.
 
-    Zhou, Q., Chen, H., Zhao, H., Zhang, G., Yong, J. & Shen, J., 2016. ["A local field correlated and Monte Carlo based shallow neural network model for non-linear time series prediction"](). Scalable Information Systems, 3(8): e5
+    Chen, H., Shen, J., Wang, L. and Song, J., 2016. ["Towards Data Analytics of Pathogen-Host Protein-Protein Interaction: A survey"](https://ieeexplore.ieee.org/abstract/document/7584966/). IEEE International Congress on Big Data, pp. 377-388
 
-    Wang, L., Shen, J., Zhou, Q., Shang, Z., Chen, H. & Zhao, H., 2016, ["An evaluation of the dynamics of diluted neural network"](). International  Journal of Computational Intelligence Systems, 9 (6), pp. 1191-1199.
+    Zhou, Q., Chen, H., Zhao, H., Zhang, G., Yong, J. and Shen, J., 2016. ["A local field correlated and Monte Carlo based shallow neural network model for non-linear time series prediction"](https://eudl.eu/doi/10.4108/eai.9-8-2016.151634). EAI Endorsed Transactions on Scalable Information Systems, 16(8), pp. 1-7.
 
-    Yong, B., Zhang, G., Chen, H. and Zhou, Q., 2016. ["Intelligent monitor system based on cloud and convolutional neural networks"](). The Journal of Supercomputing, pp.1-17.
+    Chen, H., Zhao, H., Shen, J., Zhou, R. and Zhou, Q., 2015, ["Supervised machine learning model for high dimensional gene data in colon cancer detection"](https://ieeexplore.ieee.org/abstract/document/7207212). IEEE International Congress on Big Data, pp. 134-141.
 
-    Chen, H. etc., 2015, ["Supervised machine learning model for high dimensional gene data in colon cancer detection"](). IEEE International Congress on Big Data, IEEE, pp. 134-141.
+    Zhou, R., Chen, X., Chen, H., Yan, F., Chen, C., Yu, Q., Zhou, Q. and Li, K.C., 2015. ["RCSoS: An IEC 61508 Compatible Server Model for Reliable Communication"](https://link.springer.com/article/10.1007/s11265-014-0914-z). Journal of Signal Processing Systems, 80(3), pp. 323-337.
+    
+    Zhou, R., Chen, H., Liu, Q., Sheng, Y., Zhou, Q., Wang, X. and Li, K.C., 2013. ["A server model for reliable communication on cell/BE"](https://ieeexplore.ieee.org/abstract/document/6687446). In 2013 42nd International Conference on Parallel Processing (pp. 1020-1027). IEEE.
+    
+    Hung, J.C., Zhou, R., Hu, J., Chen, H., Zhou, Q., Qi, J. and Yang, L., 2013. ["Cloud services aided e-tourism: In the case of low-cost airlines for backpacking"](https://ieeexplore.ieee.org/abstract/document/6808222). In 2013 International Conference on Parallel and Distributed Systems (pp. 468-473). IEEE.
 
-    Chen, H. etc., 2015, ["RCSoS: An IEC 61508 Compatible Server model for Reliable Communication"](). Journal of Signal Processing Systems, 80(3), pp.323-337.
-
-    Chen, H. etc., 2013, ["A Server Model for Reliable Communication on Cell/BE"](). Parallel Processing (ICPP), 42nd International Conference on. IEEE, pp. 1020-1027.
-
-    Chen, H. etc., 2013, ["The communication model between humanoid robot and mobile phone"](). Awareness Science and Technology and Ubi-Media Computing (iCAST-UMEDIA), International Joint Conference on. IEEE, pp. 697-701.
+    Chen, H., Sheng, Y., Zhou, R., Zhou, Q., Sun, S. and Hung, J.C., 2013. ["The communication model between humanoid robot and mobile phone"](https://ieeexplore.ieee.org/abstract/document/6765527). In 2013 International Joint Conference on Awareness Science and Technology & Ubi-Media Computing (iCAST 2013 & UMEDIA 2013) (pp. 697-701). IEEE.
 
 #- layout: top
 #  name: Book Chapter
