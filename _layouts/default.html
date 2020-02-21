@@ -4,38 +4,49 @@
 {%- include head.html -%}
 
 <body>
-
   {%- include header.html -%}
-
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
 
+  <p id="Home">
       {%- include about.html -%}
+  </p>
 
-      {%- if site.more_content -%}
-        {%- include more.html -%}
-      {%- endif -%}
-
+        <p id="Publication">
       {%- if site.data.publication.size > 0 -%}
         {%- include publication.html -%}
       {%- endif -%}
+        </p>
 
+        <p id="Project">
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
+        </p>
 
-      {%- if site.data.awards.size > 0 -%}
-        {%- include awards.html -%}
-      {%- endif -%}
-
+        <p id="Presentation">
       {%- if site.data.presentation.size > 0 -%}
         {%- include presentation.html -%}
       {%- endif -%}
+        </p>
 
+        <p id="Experience">
       {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
       {%- endif -%}
+        </p>
 
+        <p id="Awards">
+      {%- if site.data.awards.size > 0 -%}
+        {%- include awards.html -%}
+      {%- endif -%}
+        </p>
+
+        <p id="About">
+      {%- if site.more_content -%}
+        {%- include more.html -%}
+      {%- endif -%}
+        </p>
     </div>
   </main>
 
