@@ -7,6 +7,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_data/publication.yml",
+			"settings":
+			{
+				"buffer_size": 11177,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_data/projects.yml",
+			"settings":
+			{
+				"buffer_size": 1475,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -163,7 +181,7 @@
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -196,14 +214,75 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_data/publication.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4231,
+								4231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 359.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_data/projects.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1306,
+								1306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 33.0
 	},
 	"input":
 	{
@@ -248,7 +327,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
