@@ -2,7 +2,16 @@
 - layout: top
   name: Referred Publications
   description: |
-    Chen, H., Shen, J., Wang, L. and Song, J., 2020, ["A Framework towards Data Analytics on Host-Pathogen Protein-Protein Interactions"](https://link.springer.com/article/10.1007/s12652-020-01715-7), Journal of Ambient Intelligence and Humanized Computing, 1-13.
+
+    Chen, H., Li, F., Wang, L., Jin, Y., Chi, H., Kurgan, L., Song, J., Shen, J., 2020, ["Systematic Evaluation of machine learning methods for identifying human-pathogen protein-protein Interactions"](https://academic.oup.com/bib), Briefings in Bioinformatics, accepted: 01-APR-2020
+   
+    Chen, H., Jin, Y., Wang, L., Chi, H., Shen, J., 2020, ["HIME: Mining and Ensembling Heterogeneous Inforamtion for Protein-Protein Interactions Prediction"](https://wcci2020.org), The 2020 International Joint Conference on Neural Networks, 2020, pp. 1--8
+    
+    Chen, H., Shen, J., Wang, L., Jin, Y., 2020, ["Towards A More Effective Bidirectional LSTM-based Learning Model for Human-Bacterium Protein-Protein Interactions"](https://www.pacbb.net), 14th International Conference on Practical Applications of Computational Biology and Bioinformatics, 2020, pp. 1--10
+
+    Sun, G., Lin, J., Shen, J., Cui, T., Xu, D., Chen, H., 2020, ["Evolutionary Learner Profile Optimization using Rare and Negative Association Rules for Micro Open Learning"](https://its2020.iis-international.org), 16th International Conference on Intelligent Tutoring Systems 2020, pp. 1--8
+    
+    Chen, H., Shen, J., Wang, L. and Song, J., 2020, ["A Framework towards Data Analytics on Host-Pathogen Protein-Protein Interactions"](https://link.springer.com/article/10.1007/s12652-020-01715-7), Journal of Ambient Intelligence and Humanized Computing, pp. 1-13.
 
     Chen, H., Wang, L., Chi, H. and Shen, J., 2019, ["Leveraging SMOTE in A Two-Layer Model for Prediction of Protein-Protein Interactions"](https://ieeexplore.ieee.org/abstract/document/8916556/), The Seventh Intrnational Conference on Advanced Cloud and Big Data, 2019, pp. 133-138 
 
