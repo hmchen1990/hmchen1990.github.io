@@ -69,15 +69,23 @@
 		[
 			[
 				"git push",
-				"Git: Push"
+				"Git: Push Current Branch"
 			],
 			[
-				"git comm",
-				"Git: Commit"
+				"git com",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git ad",
+				"Git: Add All"
 			],
 			[
 				"git add",
 				"Git: Add All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
 			],
 			[
 				"git commit",
@@ -123,6 +131,7 @@
 	"expanded_folders":
 	[
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site/assets",
@@ -135,10 +144,10 @@
 	],
 	"file_history":
 	[
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/header.html",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets/css/academicons.css",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/projects.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_sass/type.scss",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_layouts/default.html",
@@ -162,7 +171,7 @@
 	],
 	"find":
 	{
-		"height": 45.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -204,11 +213,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -249,7 +258,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -287,7 +296,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 560.0,
+	"side_bar_width": 188.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

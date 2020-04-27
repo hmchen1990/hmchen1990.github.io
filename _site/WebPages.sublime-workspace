@@ -7,24 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_data/publication.yml",
-			"settings":
-			{
-				"buffer_size": 11177,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_data/projects.yml",
-			"settings":
-			{
-				"buffer_size": 1475,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -87,15 +69,23 @@
 		[
 			[
 				"git push",
-				"Git: Push"
+				"Git: Push Current Branch"
 			],
 			[
-				"git comm",
-				"Git: Commit"
+				"git com",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git ad",
+				"Git: Add All"
 			],
 			[
 				"git add",
 				"Git: Add All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
 			],
 			[
 				"git commit",
@@ -141,26 +131,27 @@
 	"expanded_folders":
 	[
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/.sass-cache",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/.sass-cache/def249fec38aacbcf7a434209277b41324d4fa67",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_layouts",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_sass",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_test",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site/assets",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets/css",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets/fonts",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/lib",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/lib/modern-resume-theme",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/scripts"
 	],
 	"file_history":
 	[
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/header.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets/css/academicons.css",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/projects.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_sass/type.scss",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_layouts/default.html",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/header.html",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/PACBB20/PACBB20.tex",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color-brief.tex",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/JBHI/Alternate-Transactions-Articles-LaTeX-template/generic-color.tex",
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/AIHC/Revision_Uploaded/AIHC_201911_Revision.tex",
@@ -173,7 +164,6 @@
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/AIHC/AIHC.tex",
 		"/Users/huaming/Downloads/llncs2e/RECOMB_Appendix.tex",
 		"/Users/huaming/Downloads/gkcx.py",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/projects.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
@@ -181,7 +171,7 @@
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -195,6 +185,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ai-publons",
+			"scholar",
 			"fa",
 			"fa-google"
 		],
@@ -214,79 +206,18 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_data/publication.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11177,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4231,
-								4231
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 359.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_data/projects.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1475,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1306,
-								1306
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -327,7 +258,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -365,7 +296,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 318.0,
+	"side_bar_width": 188.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

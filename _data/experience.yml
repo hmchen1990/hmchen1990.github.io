@@ -1,30 +1,37 @@
 - layout: left
   company: Teaching Services
-  job_title: University of Wollongong, Australia
+  job_title: |
+              School of Computing and Information Technology (SCIT) && 
+             
+              School of Mathematics and Applied Statistics (SMAS)
+             
+              at University of Wollongong, Australia
   description: |
-    Subject ‘Principles of eBusiness’ - Spring, 2019
+    SCIT Subject ‘Systems Development Methodologies’ - Autumn, 2020
 
-    Subject ‘Systems Development Methodologies’ - Autumn, 2019 
-    
-    Subject ‘Principles of eBusiness’ - Spring, 2018
-    
-    Subject ‘Management Information Systems’ - Spring, 2018 
-    
-    Subject ‘Information Systems Strategic Planning’ - Autumn, 2018 
-    
-    Subject ‘Systems Development Methodologies’ - Autumn, 2018 
-    
-    Subject ‘Principles of eBusiness’ - Spring, 2017
-    
-    Subject ‘Management Information Systems’ - Spring, 2017 
-    
-    Subject ‘Data Mining and Knowledge Discovery’ - Autumn, 2017
-    
-    Subject ‘eBusiness Technologies’ - Autumn, 2017
+    SCIT Subject ‘Principles of eBusiness’ - Spring, 2019
 
-    Subject ‘Information Systems Strategic Planning’ - Autumn, 2017
+    SCIT Subject ‘Systems Development Methodologies’ - Autumn, 2019 
     
-    Subject ‘System Integration’ - Spring, 2016
+    SCIT Subject ‘Principles of eBusiness’ - Spring, 2018
+    
+    SCIT Subject ‘Management Information Systems’ - Spring, 2018 
+    
+    SCIT Subject ‘Information Systems Strategic Planning’ - Autumn, 2018 
+    
+    SCIT Subject ‘Systems Development Methodologies’ - Autumn, 2018 
+    
+    SCIT Subject ‘Principles of eBusiness’ - Spring, 2017
+    
+    SCIT Subject ‘Management Information Systems’ - Spring, 2017 
+    
+    SMAS Subject ‘Data Mining and Knowledge Discovery’ - Autumn, 2017
+    
+    SCIT Subject ‘eBusiness Technologies’ - Autumn, 2017
+
+    SCIT Subject ‘Information Systems Strategic Planning’ - Autumn, 2017
+    
+    SCIT Subject ‘System Integration’ - Spring, 2016
 
 - layout: left
   company: Teaching Services
