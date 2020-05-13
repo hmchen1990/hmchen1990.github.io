@@ -11,7 +11,7 @@
 			"file": "_data/publication.yml",
 			"settings":
 			{
-				"buffer_size": 12344,
+				"buffer_size": 12822,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -77,7 +77,7 @@
 		"selected_items":
 		[
 			[
-				"git push",
+				"git pu",
 				"Git: Push Current Branch"
 			],
 			[
@@ -87,6 +87,10 @@
 			[
 				"git add",
 				"Git: Add All"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
 			],
 			[
 				"git com",
@@ -225,15 +229,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12344,
+						"buffer_size": 12822,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								79,
-								79
+								3482,
+								3482
 							]
 						],
 						"settings":
@@ -337,7 +341,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 98.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
