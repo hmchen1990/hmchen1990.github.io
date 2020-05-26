@@ -20,7 +20,7 @@
 			"file": "_data/awards.yml",
 			"settings":
 			{
-				"buffer_size": 1203,
+				"buffer_size": 1176,
 				"line_ending": "Unix"
 			}
 		}
@@ -193,7 +193,7 @@
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -228,7 +228,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -258,7 +258,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -267,15 +267,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1203,
+						"buffer_size": 1176,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
+								1176,
+								1176
 							]
 						],
 						"settings":
@@ -288,7 +288,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -296,7 +296,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -341,7 +341,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
