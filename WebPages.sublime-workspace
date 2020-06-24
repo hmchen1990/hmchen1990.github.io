@@ -7,23 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_data/publication.yml",
-			"settings":
-			{
-				"buffer_size": 12822,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_data/awards.yml",
-			"settings":
-			{
-				"buffer_size": 1176,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -165,8 +148,10 @@
 	],
 	"file_history":
 	[
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/experience.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/experience.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/header.html",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets/css/academicons.css",
@@ -186,14 +171,12 @@
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/AIHC/AIHC.tex",
 		"/Users/huaming/Downloads/llncs2e/RECOMB_Appendix.tex",
 		"/Users/huaming/Downloads/gkcx.py",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
 		"/Users/huaming/Dropbox/MyDocument/Resume/Huaming_Chen_CV_Complete.tex"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -228,75 +211,14 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_data/publication.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12822,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1278,
-								1278
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_data/awards.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1176,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1176,
-								1176
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -341,7 +263,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
