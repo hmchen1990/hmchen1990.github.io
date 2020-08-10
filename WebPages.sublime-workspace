@@ -3,10 +3,23 @@
 	{
 		"selected_items":
 		[
+			[
+				"A",
+				"A"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "_data/publication.yml",
+			"settings":
+			{
+				"buffer_size": 13535,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -134,14 +147,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io"
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data"
 	],
 	"file_history":
 	[
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/experience.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/header.html",
@@ -166,7 +180,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -201,14 +215,45 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_data/publication.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -253,7 +298,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
