@@ -3,10 +3,23 @@
 	{
 		"selected_items":
 		[
+			[
+				"A",
+				"A"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "_data/publication.yml",
+			"settings":
+			{
+				"buffer_size": 13535,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -72,12 +85,8 @@
 				"Git: Push Current Branch"
 			],
 			[
-				"git com",
-				"Git: Quick Commit (repo)"
-			],
-			[
-				"git ad",
-				"Git: Add All"
+				"git commit",
+				"Git: Commit"
 			],
 			[
 				"git add",
@@ -85,11 +94,19 @@
 			],
 			[
 				"git comm",
-				"Git: Commit"
+				"Git: Quick Commit (repo)"
 			],
 			[
-				"git commit",
-				"Git: Commit"
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git com",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git ad",
+				"Git: Add All"
 			],
 			[
 				"install",
@@ -131,22 +148,17 @@
 	"expanded_folders":
 	[
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_site/assets",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets/css",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets/fonts",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/lib",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/lib/modern-resume-theme",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/scripts"
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data"
 	],
 	"file_history":
 	[
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/header.html",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/experience.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_includes/header.html",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/assets/css/academicons.css",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/projects.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_sass/type.scss",
@@ -164,14 +176,11 @@
 		"/Users/huaming/Dropbox/MyDocument/Publishing_Paper/OnGoingWork/AIHC/AIHC.tex",
 		"/Users/huaming/Downloads/llncs2e/RECOMB_Appendix.tex",
 		"/Users/huaming/Downloads/gkcx.py",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
 		"/Users/huaming/Dropbox/MyDocument/Resume/Huaming_Chen_CV_Complete.tex"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -206,18 +215,49 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_data/publication.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 28.0
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 43.0
 	},
 	"layout":
 	{
@@ -258,7 +298,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -296,7 +336,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 252.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
