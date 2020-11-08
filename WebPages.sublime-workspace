@@ -11,15 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_data/publication.yml",
-			"settings":
-			{
-				"buffer_size": 13535,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -85,12 +76,20 @@
 				"Git: Push Current Branch"
 			],
 			[
-				"git commit",
+				"git com",
 				"Git: Commit"
 			],
 			[
 				"git add",
 				"Git: Add All"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git commit",
+				"Git: Commit"
 			],
 			[
 				"git comm",
@@ -99,10 +98,6 @@
 			[
 				"git pu",
 				"Git: Push Current Branch"
-			],
-			[
-				"git com",
-				"Git: Quick Commit (repo)"
 			],
 			[
 				"git ad",
@@ -153,8 +148,8 @@
 	"file_history":
 	[
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/experience.yml",
@@ -206,7 +201,7 @@
 		"replace_history":
 		[
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -215,45 +210,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_data/publication.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13535,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								418,
-								418
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"input":
 	{
