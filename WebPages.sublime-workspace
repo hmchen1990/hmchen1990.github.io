@@ -11,15 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_data/publication.yml",
-			"settings":
-			{
-				"buffer_size": 13781,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -85,6 +76,18 @@
 				"Git: Push Current Branch"
 			],
 			[
+				"git commit",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
 				"git comm",
 				"Git: Quick Commit (repo)"
 			],
@@ -93,20 +96,8 @@
 				"Git: Add All"
 			],
 			[
-				"git add",
-				"Git: Add All"
-			],
-			[
-				"git com",
-				"Git: Commit"
-			],
-			[
 				"pack",
 				"Package Control: Install Package"
-			],
-			[
-				"git commit",
-				"Git: Commit"
 			],
 			[
 				"git pu",
@@ -160,8 +151,8 @@
 	],
 	"file_history":
 	[
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
@@ -188,7 +179,7 @@
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -223,49 +214,18 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_data/publication.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13781,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								79,
-								79
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 32.0
 	},
 	"input":
 	{
-		"height": 43.0
+		"height": 44.0
 	},
 	"layout":
 	{
@@ -306,7 +266,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
