@@ -76,20 +76,20 @@
 				"Git: Push Current Branch"
 			],
 			[
-				"git commit",
+				"git comm",
 				"Git: Quick Commit (repo)"
-			],
-			[
-				"git com",
-				"Git: Commit"
 			],
 			[
 				"git add",
 				"Git: Add All"
 			],
 			[
-				"git comm",
+				"git commit",
 				"Git: Quick Commit (repo)"
+			],
+			[
+				"git com",
+				"Git: Commit"
 			],
 			[
 				"git ",
