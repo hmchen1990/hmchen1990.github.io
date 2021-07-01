@@ -80,6 +80,10 @@
 				"Git: Quick Commit (repo)"
 			],
 			[
+				"git",
+				"Git: Add All"
+			],
+			[
 				"git add",
 				"Git: Add All"
 			],
@@ -151,8 +155,9 @@
 	],
 	"file_history":
 	[
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
+		"/Users/huaming/Documents/Resume/HuamingChen_CV.tex",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
@@ -179,7 +184,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -206,8 +211,10 @@
 		[
 		],
 		"reverse": true,
+		"scrollbar_highlights": true,
 		"show_context": true,
 		"use_buffer2": true,
+		"use_gitignore": true,
 		"whole_word": false,
 		"wrap": true
 	},
@@ -221,7 +228,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -266,7 +273,7 @@
 	"project": "WebPages.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -304,7 +311,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 252.0,
+	"side_bar_width": 114.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
