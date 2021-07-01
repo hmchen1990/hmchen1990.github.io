@@ -3,29 +3,29 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Huaming Chen
-title: “Dada” of Chen, a researcher, a developer & a basketballer
-email: huaming.chen@adelaide.edu.au; hc007@uowmail.edu.au; favorming@gmail.com
-phone: 
-website: https://huaming-chen.com
+# name: Huaming Chen
+# title: “Dada” of Chen, a researcher, a developer & a basketballer
+# email: huaming.chen@adelaide.edu.au; hc007@uowmail.edu.au; favorming@gmail.com
+# phone: 
+# website: https://huaming-chen.com
 
 # Social links
-googlescholar_username: 3-qRVLUAAAAJ
-twitter_username: favorming
-linkedin_username: huaming-chen
-publons_username: huaming-chen
+# googlescholar_username: 3-qRVLUAAAAJ
+# twitter_username: favorming
+# linkedin_username: huaming-chen
+# publons_username: huaming-chen
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/Huaming_Chen.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Greetings!
-  ---
-  My name is Huaming Chen. I am currently a researcher under the supervision of Prof. M. Ali Babar in Centre for Research on Engineering Software Technologies, School of Computer Science in University of Adelaide. I received my Ph.D degree from School of Computing and Information Technology in University of Wollongong, Australia. I received my Master and Bachelor degrees from DSLab and Honors Class at Lanzhou University.
+# about_profile_image: /images/Huaming_Chen.jpg
+# about_content: | # this will include new lines to allow paragraphs
+#   Greetings!
+#   ---
+#  My name is Huaming Chen. I am currently a researcher under the supervision of Prof. M. Ali Babar in Centre for Research on Engineering Software Technologies, School of Computer Science in University of Adelaide. I received my Ph.D degree from School of Computing and Information Technology in University of Wollongong, Australia. I received my Master and Bachelor degrees from DSLab and Honors Class at Lanzhou University.
 
-  ---
-  "Study without desire spoils the memory, and it retains nothing that it takes in.” 
-  -- Leonardo da Vinci
+#  ---
+#  "Study without desire spoils the memory, and it retains nothing that it takes in.” 
+#  -- Leonardo da Vinci
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-83702637-1
 
@@ -45,7 +45,7 @@ google_analytics: UA-83702637-1
 #experience_title: Experience #(Use this to override about experience section title)
 
 # Footer
-footer_show_references: true
+#footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
