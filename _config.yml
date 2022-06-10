@@ -37,9 +37,8 @@ more_content: | # this will include new lines to allow paragraphs
 #  Prior to my Ph.D session, it was my great fortune to work in DSLab leading by Prof. Zhou. I have worked with Prof. Nicholas Mc Guire in the topic of Linux kernel development, focusing on real-time linux kernel, also I have worked with Prof. Hong Zhao in the topic of neural network in the final year of master session.
 #  A wide area covering from the lower-level computer architecture, such as real-time Linux kernel development, driver development and computer operating systems, to the higher-level algorithms and statistical models including artificial intelligence, machine learning and bioinformatics, has been through my learning and practicing career. Relevant projects and publications can be found attached.
   At this stage, I focus on the topic of software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
-
   Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), such as software security, industrial 4.0, computational biology and so on. 
-  
+
 # Projects Section
 #projects_title: Projects #(Use this to override about projects section title)
 
