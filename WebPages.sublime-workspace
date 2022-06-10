@@ -72,8 +72,32 @@
 		"selected_items":
 		[
 			[
+				"livereload: en",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
 				"git push",
 				"Git: Push Current Branch"
+			],
+			[
+				"git com",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git ",
+				"Git: Add All"
+			],
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git add",
+				"Git: Add All"
 			],
 			[
 				"git comm",
@@ -84,28 +108,12 @@
 				"Git: Add All"
 			],
 			[
-				"git add",
-				"Git: Add All"
-			],
-			[
 				"git commit",
 				"Git: Quick Commit (repo)"
 			],
 			[
-				"git com",
-				"Git: Commit"
-			],
-			[
-				"git ",
-				"Git: Add All"
-			],
-			[
 				"pack",
 				"Package Control: Install Package"
-			],
-			[
-				"git pu",
-				"Git: Push Current Branch"
 			],
 			[
 				"git ad",
@@ -155,9 +163,12 @@
 	],
 	"file_history":
 	[
+		"/Users/huaming/Library/Application Support/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/Users/huaming/Library/Application Support/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
+		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/CNAME",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/publication.yml",
 		"/Users/huaming/Documents/Resume/HuamingChen_CV.tex",
-		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_config.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/education.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/presentation.yml",
 		"/Users/huaming/Documents/GitHub/hmchen1990.github.io/_data/awards.yml",
@@ -311,7 +322,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 114.0,
+	"side_bar_width": 216.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
