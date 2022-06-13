@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Huaming Chen
-title: "Dada" of Chen, a researcher, a developer 
-email: huaming.chen@sydney.edu.au; huaming.chen@ieee.org
+title: Your job title
+email: Your email (optional)
 # email_title: Email (Email title override)
-phone: +61 2 8627 0387
+phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: https://huaming-chen.com
+website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -53,6 +53,7 @@ additional_links:
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
