@@ -6,59 +6,44 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
+name: Huaming Chen
+title: "Dada" of Chen, a researcher, a developer & a basketballer
 email: Your email (optional)
-# email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
 
-# Dark Mode (true/false/never)
-darkmode: false
+email: huaming.chen@sydney.edu.au; huaming.chen@ieee.org
+phone: +61 2 8627 0387
+website: https://huaming-chen.com
 
-# Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+#Social links
+googlescholar_username: 3-qRVLUAAAAJ
+# twitter_username: favorming
+linkedin_username: huaming-chen
+publons_username: huaming-chen
 
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+#About Section
+about_title: About Me (Use this to override about section title)
+about_profile_image: /images/Huaming_Chen.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Greetings!
+  ---
+  My name is Huaming Chen. I am currently a lecturer (assistant professor) in University of Sydney. Prior joining USYD, I was a research fellow in University of Adelaide. I received my Ph.D degree from School of Computing and Information Technology in University of Wollongong, Australia. I received my Master and Bachelor degrees from DSLab and Honors Class at Lanzhou University.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  ---
+  "Study without desire spoils the memory, and it retains nothing that it takes in.” 
+  -- Leonardo da Vinci
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-83702637-1
+
+# More Section
+more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  ---
+#  I am interested in the intersection research of machine learning and biology systems. I am honored to be under the supervision of A/Prof. Jun Shen, A/Prof. Lei Wang, A/Prof. Jiangning Song and Dr. Chi-Hung Chi for my Ph.D study, who have given me valuable opportunities in research and help me learning in an expotential growth curve from both machine learning and biology areas. I have been honored to visit NICE group led by Prof. Yaochu Jin in University of Surrey during my Ph.D session.
+#  Prior to my Ph.D session, it was my great fortune to work in DSLab leading by Prof. Zhou. I have worked with Prof. Nicholas Mc Guire in the topic of Linux kernel development, focusing on real-time linux kernel, also I have worked with Prof. Hong Zhao in the topic of neural network in the final year of master session.
+#  A wide area covering from the lower-level computer architecture, such as real-time Linux kernel development, driver development and computer operating systems, to the higher-level algorithms and statistical models including artificial intelligence, machine learning and bioinformatics, has been through my learning and practicing career. Relevant projects and publications can be found attached.
+  At this stage, I focus on the topic of software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
+  Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), such as software security, industrial 4.0, computational biology and so on. 
+
 
 content:
   - title: Projects # Title for the section
