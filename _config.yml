@@ -41,6 +41,10 @@ google_analytics: UA-83702637-1
 
 # More Section
 more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  ---
+  At this stage, I focus on the topic of software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
+  Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), such as software security, industrial 4.0, computational biology and so on. 
 
 
 
