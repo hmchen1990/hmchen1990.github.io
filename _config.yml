@@ -25,6 +25,11 @@ googlescholar_username: 3-qRVLUAAAAJ
 linkedin_username: huaming-chen
 publons_username: huaming-chen
 
+
+#About Section
+about_title: About Me (Use this to override about section title)
+about_profile_image: /images/Huaming_Chen.jpg
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
