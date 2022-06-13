@@ -18,20 +18,12 @@ website: https://huaming-chen.com
 # Dark Mode (true/false/never)
 darkmode: false
 
-# Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+
+#Social links
+googlescholar_username: 3-qRVLUAAAAJ
+# twitter_username: favorming
+linkedin_username: huaming-chen
+publons_username: huaming-chen
 
 content:
   - title: Projects # Title for the section
