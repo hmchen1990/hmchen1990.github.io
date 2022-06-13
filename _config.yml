@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Huaming Chen
-title: "Dada" of Chen, a researcher, a developer & a basketballer
+title: A researcher, a developer & a basketballer
 
 email: huaming.chen@sydney.edu.au; huaming.chen@ieee.org
 phone: +61 2 8627 0387
@@ -42,6 +42,9 @@ more_content: | # this will include new lines to allow paragraphs
 #  A wide area covering from the lower-level computer architecture, such as real-time Linux kernel development, driver development and computer operating systems, to the higher-level algorithms and statistical models including artificial intelligence, machine learning and bioinformatics, has been through my learning and practicing career. Relevant projects and publications can be found attached.
   At this stage, I focus on the topic of software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
   Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), such as software security, industrial 4.0, computational biology and so on. 
+
+
+
 
 
 content:
