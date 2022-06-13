@@ -27,7 +27,7 @@ publons_username: huaming-chen
 
 
 #About Section
-about_title: About Me (Use this to override about section title)
+about_title: About Me
 about_profile_image: /images/Huaming_Chen.jpg
 about_content: | # this will include new lines to allow paragraphs
   Greetings!
@@ -37,6 +37,12 @@ about_content: | # this will include new lines to allow paragraphs
   ---
   "Study without desire spoils the memory, and it retains nothing that it takes in.” 
   -- Leonardo da Vinci
+google_analytics: UA-83702637-1
+
+# More Section
+more_title: A Little More About Me #(Use this to override about more section title)
+
+
 
 content:
   - title: Projects # Title for the section
