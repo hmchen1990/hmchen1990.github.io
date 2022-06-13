@@ -8,10 +8,15 @@ version: 2
 # Personal info
 name: Huaming Chen
 title: A researcher, a developer & a basketballer
-
 email: huaming.chen@sydney.edu.au; huaming.chen@ieee.org
+# email_title: Email (Email title override)
 phone: +61 2 8627 0387
+# phone_title: Phone (Phone title override)
 website: https://huaming-chen.com
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: false
 
 #Social links
 googlescholar_username: 3-qRVLUAAAAJ
@@ -24,10 +29,10 @@ about_title: About Me (Use this to override about section title)
 about_profile_image: /images/Huaming_Chen.jpg
 about_content: | # this will include new lines to allow paragraphs
   Greetings!
-  ---
+  -
   My name is Huaming Chen. I am currently a lecturer (assistant professor) in University of Sydney. Prior joining USYD, I was a research fellow in University of Adelaide. I received my Ph.D degree from School of Computing and Information Technology in University of Wollongong, Australia. I received my Master and Bachelor degrees from DSLab and Honors Class at Lanzhou University.
 
-  ---
+  -
   "Study without desire spoils the memory, and it retains nothing that it takes in.” 
   -- Leonardo da Vinci
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -36,15 +41,11 @@ google_analytics: UA-83702637-1
 # More Section
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  ---
 #  I am interested in the intersection research of machine learning and biology systems. I am honored to be under the supervision of A/Prof. Jun Shen, A/Prof. Lei Wang, A/Prof. Jiangning Song and Dr. Chi-Hung Chi for my Ph.D study, who have given me valuable opportunities in research and help me learning in an expotential growth curve from both machine learning and biology areas. I have been honored to visit NICE group led by Prof. Yaochu Jin in University of Surrey during my Ph.D session.
 #  Prior to my Ph.D session, it was my great fortune to work in DSLab leading by Prof. Zhou. I have worked with Prof. Nicholas Mc Guire in the topic of Linux kernel development, focusing on real-time linux kernel, also I have worked with Prof. Hong Zhao in the topic of neural network in the final year of master session.
 #  A wide area covering from the lower-level computer architecture, such as real-time Linux kernel development, driver development and computer operating systems, to the higher-level algorithms and statistical models including artificial intelligence, machine learning and bioinformatics, has been through my learning and practicing career. Relevant projects and publications can be found attached.
   At this stage, I focus on the topic of software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
   Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), such as software security, industrial 4.0, computational biology and so on. 
-
-
-
 
 
 content:
