@@ -1,11 +1,11 @@
 # Project template
 - layout: top
-  name: Referred Publications
+  name: Publications
   description: |
 
-    [67] Huang, Y., Song, J., Wang, Z., Chen, H. and Ma, L., 2023. ["Look before you leap: An exploratory study of uncertainty measurement for large language models"]. arXiv preprint arXiv:2307.10236.
+    [67] Huang, Y., Song, J., Wang, Z., Chen, H. and Ma, L., 2023. ["Look before you leap: An exploratory study of uncertainty measurement for large language models"](). arXiv preprint arXiv:2307.10236.
 
-    [66] Li, Y., Chen, H., Bao, W., Xu, Z. and Yuan, D., 2023. ["Honest Score Client Selection Scheme: Preventing Federated Learning Label Flipping Attacks in Non-IID Scenarios"]. arXiv preprint arXiv:2311.05826.
+    [66] Li, Y., Chen, H., Bao, W., Xu, Z. and Yuan, D., 2023. ["Honest Score Client Selection Scheme: Preventing Federated Learning Label Flipping Attacks in Non-IID Scenarios"](). arXiv preprint arXiv:2311.05826.
 
     [65] Huang, L., Zhao, P., Chen, H. and Ma, L., 2024. ["Large Language Models Based Fuzzing Techniques: A Survey"](https://arxiv.org/abs/2402.00350). 
 
