@@ -3,7 +3,7 @@
   name: Referred Publications
   description: |
 
-    [41] Chen, H. and Babar, M.A., 2022. ["Security for Machine Learning-based Software Systems: a survey of threats, practices and challenges"](https://arxiv.org/abs/2201.04736). arXiv preprint arXiv:2201.04736.
+    [41] Chen, H. and Babar, M.A., 2024. ["Security for Machine Learning-based Software Systems: A Survey of Threats, Practices, and Challenges"](https://dl.acm.org/doi/abs/10.1145/3638531). ACM Computing Surveys, 56(6), pp.1-38.
 
     [40] Hin, D., Kan, A., Chen, H. and Babar, M.A., 2022. ["LineVD: Statement-level Vulnerability Detection using Graph Neural Networks"](https://arxiv.org/abs/2203.05181), 2022 the 19th International Conference on Mining Software Repositories, 2022
 
