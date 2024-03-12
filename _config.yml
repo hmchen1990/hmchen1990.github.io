@@ -32,7 +32,7 @@ about_profile_image: /images/Huaming_Chen.jpg
 about_content: | # this will include new lines to allow paragraphs
   Greetings!
   ---
-  I am currently a lecturer (assistant professor) in The University of Sydney. Prior joining USYD, I was a research fellow in University of Adelaide. I received my Ph.D degree from School of Computing and Information Technology in University of Wollongong, Australia. I received my Master and Bachelor degrees from DSLab and Honors Class at Lanzhou University.
+  I am currently a lecturer (assistant professor) in The University of Sydney. 
 
   ---
   "Study without desire spoils the memory, and it retains nothing that it takes in.” 
@@ -43,8 +43,8 @@ google_analytics: UA-83702637-1
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   ---
-  At this stage, I focus on the topic of software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
-  Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), such as software security, industrial 4.0, computational biology and so on. 
+  My research interest is on trustworthy AI and software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
+  Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), including industrial 4.0, computational biology and so on. 
 
 content:
   - title: A Little More About Me
