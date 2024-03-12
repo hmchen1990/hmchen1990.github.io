@@ -41,22 +41,19 @@ google_analytics: UA-83702637-1
 
 # More Section
 more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  ---
-  My research interest is on trustworthy AI and software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
-  Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), including industrial 4.0, computational biology and so on. 
 
-  I actively serve as the area chair, program committee, associate editor and reviewer at different conferences and journals, such as ACM CCS, ACM MM, IJCAI, KDD, TheWeb, ICSE, MSR, ISSTA, ISSRE, FORGE, IEEE CAI, IJCNN, CEC, SIAM ICDM, IEEE ICWS, ECML&PKDD, Computers&Security, Complex&Intelligent Systems, and so on.
-
-  Workshop for Trustworthy and Responsible AI: https://responsible-ai.wiki/
 content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  My research interest is on trustworthy AI and software security, especially for AI-enabled systems. Particularly, a call on securing the AI-enabled systems in practice with dedicated software engineering techniques is a brief summary to my current work.
+  Generally, I am also passionate in the research areas driven by artificial intelligence (AI for software engineering and science), including industrial 4.0, computational biology and so on. 
+more_content: | # this will include new lines to allow paragraphs
+  ---
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  I actively serve as the area chair, program committee, associate editor and reviewer at different conferences and journals, such as ACM CCS, ACM MM, IJCAI, KDD, TheWeb, ICSE, MSR, ISSTA, ISSRE, FORGE, IEEE CAI, IJCNN, CEC, SIAM ICDM, IEEE ICWS, ECML&PKDD, Computers&Security, Complex&Intelligent Systems, and so on.
 
+  Workshop for Trustworthy and Responsible AI: https://responsible-ai.wiki
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
