@@ -3,19 +3,26 @@
   name: Publications
   description: |
 
-    [67] Huang, Y., Song, J., Wang, Z., Chen, H. and Ma, L., 2024. ["Look before you leap: An exploratory study of uncertainty measurement for large language models"](). arXiv preprint arXiv:2307.10236.
+#    [67] 
+    - Huang, Y., Song, J., Wang, Z., Chen, H. and Ma, L., 2024. ["Look before you leap: An exploratory study of uncertainty measurement for large language models"](). arXiv preprint arXiv:2307.10236.
 
-    [66] Li, Y., Chen, H., Bao, W., Xu, Z. and Yuan, D., 2024. ["Honest Score Client Selection Scheme: Preventing Federated Learning Label Flipping Attacks in Non-IID Scenarios"](). arXiv preprint arXiv:2311.05826.
+#    [66] 
+    - Li, Y., Chen, H., Bao, W., Xu, Z. and Yuan, D., 2024. ["Honest Score Client Selection Scheme: Preventing Federated Learning Label Flipping Attacks in Non-IID Scenarios"](). arXiv preprint arXiv:2311.05826.
 
-    [65] Huang, L., Zhao, P., Chen, H. and Ma, L., 2024. ["Large Language Models Based Fuzzing Techniques: A Survey"](https://arxiv.org/abs/2402.00350). 
+#    [65] 
+    - Huang, L., Zhao, P., Chen, H. and Ma, L., 2024. ["Large Language Models Based Fuzzing Techniques: A Survey"](https://arxiv.org/abs/2402.00350). 
 
-    [64] Li, H., Shi, J., Chen, H., Du, B., Maksour, S., Phillips, G., Dottori, M. and Shen, J., 2024. ["FDNet: Frequency Domain Denoising Network For Cell Segmentation in Astrocytes Derived From Induced Pluripotent Stem Cells"](). The IEEE International Symposium on Biomedical Imaging (ISBI) 2024
+#    [64]  
+    - Li, H., Shi, J., Chen, H., Du, B., Maksour, S., Phillips, G., Dottori, M. and Shen, J., 2024. ["FDNet: Frequency Domain Denoising Network For Cell Segmentation in Astrocytes Derived From Induced Pluripotent Stem Cells"](). The IEEE International Symposium on Biomedical Imaging (ISBI) 2024
 
-    [63] Ibrahim, J., Li, Y., Chen, H., Yuan, D., 2024, ["Holistic Evaluation Metrics for Federated Learning"](), The 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)
+#    [63] 
+    - Ibrahim, J., Li, Y., Chen, H., Yuan, D., 2024, ["Holistic Evaluation Metrics for Federated Learning"](), The 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)
 
-    [62] Wen, J., Yuan, D., Ma, L. and Chen, H., 2024. ["Code Ownership in Open-Source AI Software Security"](). RAIE @ 46th International Conference on Software Engineering (ICSE 2024)
+#    [62] 
+    - Wen, J., Yuan, D., Ma, L. and Chen, H., 2024. ["Code Ownership in Open-Source AI Software Security"](). RAIE @ 46th International Conference on Software Engineering (ICSE 2024)
 
-    [61] Zhu, Z., Chen, H., Wang, X., Zhang, J., Jin, Z., Choo, K.K.R., Shen, J., Yuan, D., 2024. ["GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model"](). SIAM International Conference on Data Mining (SDM24)
+#    [61] 
+    - Zhu, Z., Chen, H., Wang, X., Zhang, J., Jin, Z., Choo, K.K.R., Shen, J., Yuan, D., 2024. ["GE-AdvGAN: Improving the transferability of adversarial samples by gradient editing-based adversarial generative model"](). SIAM International Conference on Data Mining (SDM24)
 
     [60] Zhu, Z., Wang, X., Jin, Z., Zhang, J. and Chen, H., 2024. ["Enhancing Transferable Adversarial Attacks on Vision Transformers through Gradient Normalization Scaling and High-Frequency Adaptation"](). In The Twelfth International Conference on Learning Representations.
 
