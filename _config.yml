@@ -16,7 +16,7 @@ website: https://huaming-chen.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 
 #Social links
@@ -40,7 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 google_analytics: UA-83702637-1
 
 # More Section
-more_title: More About Me #(Use this to override about more section title)
+# more_title: More About Me #(Use this to override about more section title)
 
 content:
   - title: More About Me
