@@ -5,7 +5,7 @@
 
     [41] Chen, H. and Babar, M.A., 2024. ["Security for Machine Learning-based Software Systems: A Survey of Threats, Practices, and Challenges"](https://dl.acm.org/doi/abs/10.1145/3638531). ACM Computing Surveys, 56(6), pp.1-38.
 
-    [40] Hin, D., Kan, A., Chen, H. and Babar, M.A., 2022. ["LineVD: Statement-level Vulnerability Detection using Graph Neural Networks"](https://arxiv.org/abs/2203.05181), 2022 the 19th International Conference on Mining Software Repositories, 2022
+    [40] Hin, D., Kan, A., Chen, H. and Babar, M.A., 2022, May. ["Linevd: Statement-level vulnerability detection using graph neural networks"](https://dl.acm.org/doi/abs/10.1145/3524842.3527949?casa_token=sQtC9O_8iBQAAAAA:35NjVoXq10Y3HKdBZC6phVsaNRAvHCke7ZpgMJufdRFC3CjRqdniEiaF1KB3KqyZOeigkYFuy_C9). In Proceedings of the 19th international conference on mining software repositories (pp. 596-607).
 
     [39] Le, T.H., Chen, H. and Babar, M.A., 2022. ["A survey on data-driven software vulnerability assessment and prioritization"](https://dl.acm.org/doi/10.1145/3529757). ACM Computing Surveys, 2022
 
